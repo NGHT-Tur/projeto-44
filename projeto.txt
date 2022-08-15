@@ -1,0 +1,21 @@
+1. Escreva o título do seu projeto
+A vingança de Luffy
+2. Qual é o objetivo do jogo?
+se vingar.
+3. Escreva uma breve história do seu jogo.
+Luffy acorda em uma bela manhã com seu irmão que o
+acorda com um belo soco, e o luffy decide se vingar,
+quabrando a casa de seu irmão.
+4. Quais são os personagens jogáveis do jogo?
+Luffy.
+5. Quais são os personagens não-jogadores deste jogo?
+casa.
+6. Faça uma lista de todos os personagens e qual a função de cada um deles.
+luffy-se vingar.
+7. Desenhe sua imaginação deste jogo. Como é esse jogo?
+
+8. Como você planeja tornar seu jogo atraente?
+capa.
+9. Quais ferramentas você vai usar (bibliotecas, editor, etc)?
+javaScript.
+p5.
